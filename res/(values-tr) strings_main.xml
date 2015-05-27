@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+ 	      Copyright (C) 2015 Nicholas Chum (nicholaschum) and Matt Booth (Kryten2k35).
+ 	
+ 	      Licensed under the Attribution-NonCommercial-ShareAlike 4.0 International
+ 	      (the "License") you may not use this file except in compliance with the License.
+ 	      You may obtain a copy of the License at
+ 		
+ 		            http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+ 	      
+ 	      Unless required by applicable law or agreed to in writing, software
+ 	      distributed under the License is distributed on an "AS IS" BASIS,
+	      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	      See the License for the specific language governing permissions and
+	      limitations under the License.
+-->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="main_update_available">Güncelleme Mevcut!</string>
+    <string name="main_update_finished">İndirme tamamlandı</string>
+    <string name="main_no_update_available">Güncelleme mevcut değil</string>
+    <string name="main_update_filename">Dosya adı</string>
+    <string name="main_update_progress">İndirme İlerlemesi</string>
+    <string name="main_website">Web sitesi</string>
+    <string name="main_website_summary">Resmi BlissRoms web sitesini ziyaret edin</string>
+    <string name="main_donate">Bağış</string>
+    <string name="main_donate_summary">Bliss Team' a Bağış!</string>
+    <string name="main_tap_to_download">İndirme için dokunun</string>
+    <string name="main_download_completed_details">Ayrıntılar için dokunun</string>
+    <string name="main_tap_to_view_progress">İlerlemeyi görüntülemek için dokunun</string>
+    <string name="main_last_checked">Son güncelleştirmeyi kontrol edin:\n</string>
+    <string name="main_addon">Eklentiler</string>
+    <string name="main_addon_summary">Bu rom için ek dosyalar indirin</string>
+
+    <!-- ROM Information -->
+    <string name="main_rom_information">Geçerli Sistem Bilgisi</string>
+    <string name="main_rom_name">ROM adı:</string>
+    <string name="main_rom_version">ROM versiyonu:</string>
+    <string name="main_rom_codename">ROM kod adı:</string>
+    <string name="main_rom_build_date">İnşa tarihi:</string>
+    <string name="main_android_verison">Android versiyonu:</string>
+    <string name="main_rom_developer">Geliştirici:</string>
+
+    <!-- Dialogs -->
+    <string name="main_not_compatible_title">Uyumlu değil</string>
+    <string name="main_not_compatible_message">Sisteminiz OTA güncellemeleri almak için doğru yapılandırılmamış. Doğru yapılandırmaya sahip Bliss son sürümünü elle yükleyin lütfen.</string>
+    <string name="main_not_connected_title">Bağlantı yok</string>
+    <string name="main_not_connected_message">Herhangi bir ağa bağlı değilsiniz. Hücresel Ağ'ı veya Wi-Fi yi etkinleştirin ve tekrar deneyin.</string>
+    <string name="main_playstore_title">BitCoin</string>
+    <string name="main_playstore_message">Kendiniz yükleyebilmeniz için her hangi bir uygulamanız mevcut değil \"bitcoin:\".\n\nEğer birini bulmak için Google Play Store'da aramak ister misiniz?</string>
+
+    <!-- Content Descriptions -->
+    <string name="main_button_icon">Tuş simgesi</string>
+    <string name="main_dev_website_icon">Geliştirici Web Sitesi Simgesi</string>
+    <string name="main_actionbar_button">Eylem Çubuğu Tuşları</string>
+
+    <!-- Toast -->
+    <string name="main_release_ignored">Güncellemeyi atla</string>
+</resources>
